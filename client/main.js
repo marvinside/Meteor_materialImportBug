@@ -1,6 +1,6 @@
 import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
-import { MDCRipple } from "@material/ripple";
+import { MDCDialog } from "@material/dialog";
 
 import './main.html';
 

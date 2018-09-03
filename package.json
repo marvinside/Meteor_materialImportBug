@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0-beta.55",
+    "@material/dialog": "^0.39.1",
     "@material/ripple": "^0.38.0",
     "meteor-node-stubs": "^0.4.1"
   },
